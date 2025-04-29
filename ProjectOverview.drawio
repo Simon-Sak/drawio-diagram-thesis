@@ -4,35 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tLYNpAmldiffLmxqfKL2-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" parent="1" source="tLYNpAmldiffLmxqfKL2-1" target="tLYNpAmldiffLmxqfKL2-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tLYNpAmldiffLmxqfKL2-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v-MoMMGTiFcIeM_M-H1C-52" target="tLYNpAmldiffLmxqfKL2-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-1" target="tLYNpAmldiffLmxqfKL2-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-1" value="Trať" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-2" target="tLYNpAmldiffLmxqfKL2-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-2" target="tLYNpAmldiffLmxqfKL2-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-2" value="Skupina regionů" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="180" y="220" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-3" target="tLYNpAmldiffLmxqfKL2-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-3" target="tLYNpAmldiffLmxqfKL2-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-3" target="tLYNpAmldiffLmxqfKL2-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-3" value="Skupina regionů" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="510" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="tLYNpAmldiffLmxqfKL2-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v-MoMMGTiFcIeM_M-H1C-52" target="tLYNpAmldiffLmxqfKL2-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v-MoMMGTiFcIeM_M-H1C-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tLYNpAmldiffLmxqfKL2-4" target="v-MoMMGTiFcIeM_M-H1C-6">
           <mxGeometry relative="1" as="geometry" />
@@ -234,6 +214,30 @@
         </mxCell>
         <mxCell id="v-MoMMGTiFcIeM_M-H1C-51" value="Tvarová&lt;div&gt;gramatika&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-52" value="Skupina&lt;div&gt;regionů&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v-MoMMGTiFcIeM_M-H1C-53" target="tLYNpAmldiffLmxqfKL2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v-MoMMGTiFcIeM_M-H1C-53" target="tLYNpAmldiffLmxqfKL2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v-MoMMGTiFcIeM_M-H1C-53" target="tLYNpAmldiffLmxqfKL2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-53" value="Skupina&lt;div&gt;regionů&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v-MoMMGTiFcIeM_M-H1C-59" target="v-MoMMGTiFcIeM_M-H1C-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v-MoMMGTiFcIeM_M-H1C-59" target="v-MoMMGTiFcIeM_M-H1C-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-59" value="Trať" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
