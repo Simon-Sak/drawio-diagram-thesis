@@ -34,13 +34,6 @@
         <mxCell id="tLYNpAmldiffLmxqfKL2-3" value="Skupina regionů" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="510" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-55" target="tLYNpAmldiffLmxqfKL2-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="40" y="374" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v-MoMMGTiFcIeM_M-H1C-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tLYNpAmldiffLmxqfKL2-4" target="v-MoMMGTiFcIeM_M-H1C-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -123,16 +116,7 @@
           <mxGeometry x="15" y="433" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tLYNpAmldiffLmxqfKL2-55" value="Tvarová&lt;div&gt;gramatika&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5" y="250" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tLYNpAmldiffLmxqfKL2-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.485;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tLYNpAmldiffLmxqfKL2-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="44" y="196" />
-              <mxPoint x="171" y="196" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="10" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tLYNpAmldiffLmxqfKL2-61" value="Dílek" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="230" y="700" width="40" height="40" as="geometry" />
@@ -247,6 +231,9 @@
         </mxCell>
         <mxCell id="v-MoMMGTiFcIeM_M-H1C-41" value="Dílek" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v-MoMMGTiFcIeM_M-H1C-51" value="Tvarová&lt;div&gt;gramatika&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
